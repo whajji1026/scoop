@@ -1,0 +1,108 @@
+
+.main1{
+    
+    grid-template-rows: 1fr 3fr;
+    margin: 10px;
+    background-color: rgb(222, 221, 221);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.name{
+    background-color: rgb(3, 2, 1);
+    padding-top:10px;
+    border-top-left-radius: 10px;
+   
+    border-top-right-radius: 10px;
+   
+}
+h1{ text-align: center;
+    padding-top: 10px;
+    font-size: 300%;
+    color: azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{ text-align: center;
+    font-size: 200%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: azure;
+}
+h3{ text-align: center;
+    padding-bottom: 20px;
+    font-size: 100%;
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.img>img{
+    height: 720px; 
+    text-align: center;   
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.continu{
+    display:grid; 
+    grid-template-columns: 1fr 3fr;
+    margin: 10px;
+}
+.continu{
+    display:grid; 
+    grid-template-columns: 1.5fr 2.5fr;
+    margin: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.bio{
+    background-color: rgb(253, 253, 253);
+    margin: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+p{
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.bio>h2{
+    font-size: 150%;
+    text-align: left;
+    
+    margin-left: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(8, 1, 32);
+}
+.achi{
+    background-color: rgb(253, 253, 253);
+    margin: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.achi>h2{
+    font-size: 150%;
+    text-align: left;
+    
+    margin-left: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(8, 1, 32);
+}
+li{
+    font-size: 20px;
+    margin-left: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
